@@ -67,7 +67,6 @@ const ethan = {
 *   **Prompt Engineering**: Designing advanced agentic workflows for software development.
 *   **IBM Generative AI Engineering Professional Certificate**.
 *   **Machine Learning with Python** (Coursera).
-*   **Official Afnan Perfume Distributor** (Vietnam) - Combining tech with business operations.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with like-minded developers!</b> Drop a ⭐️ if you like my work or reach out for collaborations! 😊</em>
 
