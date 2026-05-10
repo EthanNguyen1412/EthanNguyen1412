@@ -72,10 +72,8 @@ const ethan = {
 
 ---
 
-**🐱 My GitHub Stats** 
+**🐱 My GitHub Stats** > * 📦 **Used in GitHub's Storage:** AI Models & Web Apps
+> * 🏆 **2026 Focus:** High-impact AI & Automation Solutions
+> * 💼 **Open for:** AI/Software Engineering Internship 2026
 
-> 📦 Used in GitHub's Storage: AI Models & Web Apps 
-> 🏆 2026 Focus: High-impact AI & Automation Solutions 
-> 💼 Open for: AI/Software Engineering Internship 2026
-
-*Last Updated: 09/05/2026*
+*Last Updated: 10/05/2026*
