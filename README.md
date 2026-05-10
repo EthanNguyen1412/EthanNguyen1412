@@ -64,10 +64,14 @@ const ethan = {
 ```
 
 ### 🛠️ Core Skills & Certifications
-*   **Prompt Engineering**: Designing advanced agentic workflows for software development.
-*   **IBM Generative AI Engineering Professional Certificate**.
-*   **Machine Learning with Python** (Coursera).
 
+* **Prompt Engineering**: Designing advanced agentic workflows for software development.
+* **Completed Certifications (Coursera & Professional)**:
+    * 🎓 **Python for Everybody** Specialization.
+    * 🤖 **Machine Learning with Python** (IBM/Coursera).
+    * ☁️ **Artificial Intelligence on Microsoft Azure**.
+* **Ongoing Goals**:
+    * 🎯 **Microsoft Azure AI Fundamentals (AI-900)** - *In Progress*.
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with like-minded developers!</b> Drop a ⭐️ if you like my work or reach out for collaborations! 😊</em>
 
 ---
