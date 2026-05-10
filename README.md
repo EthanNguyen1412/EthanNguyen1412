@@ -11,10 +11,10 @@
 
 ### 🚀 Featured Projects
 
-- 🌿 **Mắt Thần Nông**: Leading an AI project using **YOLOv8** to diagnose diseases in coffee and durian crops.
-- 🤖 **AutoLastWar**: Developing high-performance game automation bots using **Computer Vision (OpenCV)** and **Reverse Engineering**.
-- 💻 **SaaS Platform**: Building and scaling [autobotlastwar.com](https://autobotlastwar.com) with **Next.js 14**, **FastAPI**, and **PostgreSQL**.
-- ⛓️ **SuiCircle**: Decentralized ROSCA project concept from **SUI x UEF Hackathon**.
+- **Mắt Thần Nông**: Leading an AI project using **YOLOv8** to diagnose diseases in coffee and durian crops.
+- **AutoLastWar**: Developing high-performance game automation bots using **Computer Vision (OpenCV)** and **Reverse Engineering**.
+- **SaaS Platform**: Building and scaling [autobotlastwar.com](https://autobotlastwar.com) with **Next.js 14**, **FastAPI**, and **PostgreSQL**.
+- **SuiCircle**: Decentralized ROSCA project concept from **SUI x UEF Hackathon**.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
@@ -74,8 +74,8 @@ const ethan = {
 
 **🐱 My GitHub Stats** 
 
-> 📦 Used in GitHub's Storage: AI Models & Web Apps
-> 🏆 2026 Focus: High-impact AI & Automation Solutions
+> 📦 Used in GitHub's Storage: AI Models & Web Apps 
+> 🏆 2026 Focus: High-impact AI & Automation Solutions 
 > 💼 Open for: AI/Software Engineering Internship 2026
 
 *Last Updated: 09/05/2026*
